@@ -1,5 +1,5 @@
 # mygraph
-##Python functions to format figures
+Python functions to format figures
 
 Requires that matplotlib.pyplot had been imported from the program importing these functions
 Both functions will require pyplot to be the first positional argument when called
